@@ -28,6 +28,7 @@
 	width: 60%;
 	height: 30vh;
 	
+	
 }
 .menu ul{
 	list-style-type: none;
@@ -1022,5 +1023,7 @@ form{
 	transform: scale(1.4);
 	opacity: 1
 }
-
+.ft-3 .fa{
+	color: black;
+}
 
